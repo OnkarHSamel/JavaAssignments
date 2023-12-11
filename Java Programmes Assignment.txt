@@ -1,0 +1,13 @@
+1. Write a Program to print 2 integers with its names.
+Solution :
+public class pqr {
+    public static void main(String[] args) {
+		
+	int x = 4;
+        int y = 5;
+        System.out.println(x+" Four");
+        System.out.println(y+" Five");
+	}
+}
+
+============================================================================
